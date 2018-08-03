@@ -1,1 +1,2 @@
 I have text
+THIS IS A NEW LINE
